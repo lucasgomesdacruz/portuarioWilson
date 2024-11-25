@@ -26,6 +26,10 @@
 }
 .header li a {
   color: #001C43;
+  transition: all 0.3s ease;
+}
+.header li a:hover {
+  color: #01347c;
 }
 
 .main {
