@@ -1,0 +1,12 @@
+{
+  "name": "flexboxt1",
+  "version": "1.0.0",
+  "description": "![FlexBox-T1](https://github.com/user-attachments/assets/9989edf0-40e2-433e-9127-e085f45ffb10)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
