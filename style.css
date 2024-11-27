@@ -81,7 +81,7 @@
   width: 35%;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
 }
 .logistics-article h2 {
   font-size: 2rem;
